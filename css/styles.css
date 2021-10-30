@@ -1,0 +1,166 @@
+body {
+  background-color:#CAF7E3;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #001E6C;
+  font-size: 5.625rem;
+  margin: 10px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #001E6C;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 'Geneva', cursive;
+  margin: 10px auto 0 150;
+  padding-bottom: 0px;
+}
+
+h3 {
+  color: #11999E;
+  font-size: 1.0rem;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 5px;
+}
+
+h4 {
+  color: #001E6C;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-family: 'Sacramento', cursive;
+  padding-bottom: 5px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  border-color: grey;
+  width: 10%;
+  margin: 10px auto;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 5px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color:#FDEFEF ;
+  position: relative;
+  padding-top: 0px;
+}
+
+.middle-container {
+  background-color: #CAF7E3;
+  width: 100%;
+  margin: auto;
+}
+
+.joeyphoto-img{
+  width: 13%;
+  float: centre;
+  margin: 20px auto;
+}
+
+.bottom-container {
+  background-color: #FDEFEF;
+}
+
+.skill-row {
+  width: 60%;
+  background-color: #CAF7E3;
+  margin: 40px auto 40px auto;
+  text-align: left;
+}
+
+.intro {
+  width: 60%;
+  margin: 0px auto 30px;
+  text-align: centre;
+  font-size: 1.0rem;
+}
+
+.intro2 {
+  width: 50%;
+  margin: 0px auto 30px;
+  text-align: centre;
+  font-size: 1.0rem;
+  color: #11999E;
+}
+
+.contact-message {
+  width: 80%;
+  margin: 0px auto 30px;
+}
+
+.techtalent-img{
+  width: 100%;
+  float: bottom;
+  margin-right: 10px;
+}
+
+.terrorism-img {
+  width: 100%;
+  float: bottom;
+  margin-left: 0px;
+}
+
+.terrorismdashboard2-img {
+  width: 100%;
+  float: top;
+  margin-left: 0px;
+}
+
+.creditcardchurn-img {
+  width: 100%;
+  float: bottom;
+  margin-right: 10px;
+}
+
+.chicagocrimeprediction-img{
+  width: 100%;
+  float: bottom;
+  margin-right: 10px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
